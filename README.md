@@ -37,12 +37,3 @@ untitled folder/
 - **TheatreBookingUI**: Provides a Swing-based GUI for the user.  
 - **TheatreBookingSystem**: (Usually contains `main`) Sets up and runs the UI.  
 
-## ✅ Suggestions for Improvement
-
-- Integrate a database (MySQL/SQLite) for persistence  
-- Add seat layout visualization in GUI  
-- Allow multiple movie shows with time selection  
-- Add input validations and error handling  
-- Use modal dialogs for user feedback  
-- Organize code into packages (`model`, `view`, `controller`)  
-- Add export to `.jar` feature  
